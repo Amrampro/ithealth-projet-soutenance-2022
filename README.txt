@@ -18,7 +18,6 @@ Features:
 - Administrator section
 - Chatbot section
 
-Project finalisation: 60%
 
 
 FR: 
@@ -40,5 +39,3 @@ Caractéristiques:
 - Section Médecin
 - Section Administrateur
 - Rubrique Chatbots
-
-Finalisation du projet : 60%
